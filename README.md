@@ -1,6 +1,23 @@
-# Magnum Opus Skills
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="Magnum Opus Skills" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> A single `CLAUDE.md` for the seven-stage Magnum Opus engineering workflow. Alchemy applied to software project transformation.
+<h1 align="center">Magnum Opus Skills</h1>
+
+<p align="center">
+  <em>A CLAUDE.md for the seven-stage Magnum Opus engineering workflow — Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation. Alchemy applied to software.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/magnum-opus-skills/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/magnum-opus-skills?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/magnum-opus-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/magnum-opus-skills?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/magnum-opus-skills/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/magnum-opus-skills?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **A single `CLAUDE.md` for the seven-stage Magnum Opus engineering workflow. Alchemy applied to software project transformation.**
 
 > *"Solve et coagula."* — Dissolve and coagulate.
 
